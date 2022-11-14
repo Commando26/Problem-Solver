@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Problem Solver</string>
+    <string name="fwgc_problem">FWGC Problem</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="open_activity_2">Open Activity 2</string>
+    <string name="_8_puzzle_problem">8-Puzzle Problem</string>
+
+    <string name="current_state">Current State</string>
+    <string name="goal_state">Goal State</string>
+
+
+    <string name="move_count">Move Count: 0</string>
+    <string name="moves">Moves:</string>
+    <string name="reset">Reset</string>
+    <string name="solve">Solve</string>
+    <string name="message">This is where messages go</string>
+    <string name="benchmark">Benchmark:</string>
+    <string name="statistics">Statistics:</string>
+    <string name="next_move">Next</string>
+
+
+    <item name="stats_info" type="id" />
+    <string name="move_count_text">0</string>
+    <string name="goes_alone">Goes Alone</string>
+    <string name="takes_goat">Takes Goat</string>
+    <string name="takes_cabbage">Takes Cabbage</string>
+    <string name="takes_wolf">Takes Wolf</string>
+    <string name="reset_button">Reset</string>
+    <string name="solve_button">Solve</string>
+    <string name="next_button">Next</string>
+    <string name="benchmark_text">Benchmarks:</string>
+
+    <string name="eight_greeting">Welcome to the 8-Puzzle Problem</string>
+    <string name="eight_instructions">You are given a board in which numbered tiles can slide around. There is one blank space that holds not tile. A legal move consists of sliding a tile into the blank space if the tile is adjacent to it. The goal is to move tiles around until the board looks like the final state below.</string>
+    <string name="eight_start">Begin 8-Puzzle Problem</string>
+    <string name="eight_initial">+---+---+---+\n| 2 | 8 | 3 |\n+---+---+---+\n| 1 | 6 | 4 |\n+---+---+---+\n| 7 | \t\t | 5 |\n+---+---+---+</string>
+    <string name="eight_final">+---+---+---+\n| 1 | 2 | 3 |\n+---+---+---+\n| 8 | \t\t | 4 |\n+---+---+---+\n| 7 | 6 | 5 |\n+---+---+---+</string>
+    <string name="eight_header">8-Puzzle</string>
+
+    <string name="fifteen_greeting">Welcome to the 15-Puzzle Problem</string>
+    <string name="fifteen_instructions">You are given a board in which numbered tiles can slide around. There is one blank space that holds not tile. A legal move consists of sliding a tile into the blank space if the tile is adjacent to it. The goal is to move tiles around until the board looks like the final state below.</string>
+    <string name="fifteen_start">Begin 15-Puzzle Problem</string>
+    <string name="fifteen_initial">+---+---+---+---+\n| 5 | 1 | 2 | 3 |\n+---+---+---+---+\n| 6 | \t \t| 7 | 4 |\n+---+---+---+---+\n| 9 |10 |11 | 8 |\n+---+---+---+---+\n|13 |14 |15 |12 |\n+---+---+---+---+</string>
+    <string name="fifteen_final">+---+---+---+---+\n| 1 | 2 | 3 | 4 |\n+---+---+---+---+\n| 5 | 6 | 7 | 8 |\n+---+---+---+---+\n| 9 |10 |11 |12 |\n+---+---+---+---+\n|13 |14 |15 | \t\t |\n+---+---+---+---+</string>
+
+    <string name="illegal_move">ILLEGAL MOVE</string>
+    <string name="congrats">CONGRATS, YOU SOLVED THE PUZZLE!</string>
+    <string name="fwgc_currentstate">Currnet State</string>
+    <string name="fwgc_finalstate">Final State</string>
+
+
+</resources>

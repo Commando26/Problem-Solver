@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="InstructionStyle"></style>
+
+    <style name="MediumMono">MediumMono</style>
+
+    <style name="MessageStyle">MessageStyle</style>
+</resources>

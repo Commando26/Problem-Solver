@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button2" type="id" />
+    <item name="farmer_message" type="id" />
+    <item name="PuzzleCurrentState" type="id" />
+    <item name="PuzzleFinalState" type="id" />
+    <item name="puzzlesolve_message" type="id" />
+    <item name="PuzzleMoveCount" type="id" />
+    <item name="PuzzleNextButton" type="id" />
+    <item name="PuzzleSolveButton" type="id" />
+    <item name="PuzzleMoveButtons" type="id" />
+    <item name="puzzlespinner" type="id" />
+    <item name="PuzzleResetButton" type="id" />
+    <item name="PuzzleBenchmarkHeader" type="id" />
+    <item name="PuzzleMoveCountHeader" type="id" />
+    <item name="PuzzleCurrentStateHeader" type="id" />
+    <item name="PuzzleFinalStateHeader" type="id" />
+    <item name="FifteenMoveCountHeader" type="id" />
+    <item name="FifteenNextButton" type="id" />
+    <item name="FifteenCurrentStateHeader" type="id" />
+    <item name="FifteenCurrentState" type="id" />
+    <item name="FifteenFinalStateHeader" type="id" />
+    <item name="FifteenFinalState" type="id" />
+    <item name="FifteenResetButton" type="id" />
+    <item name="fifteenspinner" type="id" />
+    <item name="FifteenSolveButton" type="id" />
+    <item name="FifteenMoveCount" type="id" />
+    <item name="FifteenBenchmarkHeader" type="id" />
+    <item name="fifteensolve_message" type="id" />
+
+
+</resources>
